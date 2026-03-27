@@ -1,0 +1,7 @@
+{
+  "name": "Voice Message Converter",
+  "description": "Convert your voice recordings into polished messages using AI. Transcribe speech and transform it into formal, casual, or summarized text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
